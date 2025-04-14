@@ -27,11 +27,6 @@ Atualmente estou desenvolvendo projetos com **HTML5 e CSS3**, aplicando conceito
 
 </details>
 
-
-
-
-
-
 ## 🌱 Objetivo atual:
 Aprofundar meu conhecimento em **JavaScript** e começar a criar interfaces modernas com **React**.
 
@@ -40,7 +35,6 @@ Aprofundar meu conhecimento em **JavaScript** e começar a criar interfaces mode
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samela-soraia-santos-71b189256)  
 📸 [Instagram: @samelasoraiasantos](https://instagram.com/samelasoraiasantos)  
 ✉️ E-mail: samelasantos@hotmail.com
-
 
 
 ✨ *Aprender, praticar e compartilhar. Cada linha de código é um passo!*
