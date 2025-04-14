@@ -15,6 +15,23 @@ Atualmente estou desenvolvendo projetos com **HTML5 e CSS3**, aplicando conceito
 
 *Em breve: mais projetos usando React!*
 
+## 📈 Estatísticas do GitHub
+
+<details>
+  <summary>Clique para ver minhas estatísticas</summary>
+
+  <br>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samy777-dev&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samy777-dev&layout=compact&theme=tokyonight"/>
+
+</details>
+
+
+
+
+
+
 ## 🌱 Objetivo atual:
 Aprofundar meu conhecimento em **JavaScript** e começar a criar interfaces modernas com **React**.
 
@@ -26,12 +43,5 @@ Aprofundar meu conhecimento em **JavaScript** e começar a criar interfaces mode
 
 
 
-
-
-
-
-
-
 ✨ *Aprender, praticar e compartilhar. Cada linha de código é um passo!*
 
--
